@@ -1,0 +1,9 @@
+name: Roleplay
+version: 1.0
+main: me.d3mocracy.roleplay.Main
+
+commands:
+  roleplay:
+    description: clear the chat
+  clearr:
+    description: clear the inv
